@@ -10,10 +10,10 @@ int main()
     cout.tie(0);
     int t;
     cin >> t;
-    while (t--))
-        {
-            solve();
-        }
+    while (t--)
+    {
+        solve();
+    }
 
     return 0;
 }
